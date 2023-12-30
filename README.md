@@ -19,7 +19,10 @@ Ilustración 4. Gráfico de barras con la cantidad de mensajes enviados por pers
 
  ![image](https://github.com/JohnVeraXD/Dataset-Telegram-R-Studio/assets/108051712/6daa8492-8c2d-4714-95d3-1fb6a722aa71)
 
+
 Ilustración 5. Diagrama de sectores con la cantidad de mensajes enviados por personas.
+
+
 6.	Análisis de los datos
 Como podemos observar en la figura 4 y 5 los resultados de la cantidad de mensajes enviados por persona, podemos decir que las 3 primeras personas con mayor cantidad de mensajes enviados son:
 •	Ing. Ivan Jaramillo
